@@ -1,0 +1,8 @@
+1. git init : relier dossier a git (a fsaire une fois depuis le dossier racine)
+2. git status : savoir si git
+3. : git add : ajouter fichier a git // ou git add . : ajouter tous les fichiers 
+4. git commit -m "message" : donner un nom a ce que je veux envoyer sur git
+git log : "git status" pour les commit
+5. git push : envoyer sur git
+
+git pull : rappatrier docs sur git en local
